@@ -1,0 +1,4 @@
+1 = O projeto sera dividido em camadas expecificamente em 3 camadas 
+- 1° camada = camda do tabuleiro : Nessa camada tera os elementos basicos do tabuleiro (no caso as peças o tabuleiro , cores nesse caso so tera funcionalidades basicas )
+- 2° camada = camada jogo de xadres : Nessa camada que vai ser implememtada a inteligencia do jogo de xadres ou seja a mecanica do jogo a movimentação
+- 3° camada = camada de aplicação : Nessa camada tera todas a outras camadas essa camada sera o app final 
