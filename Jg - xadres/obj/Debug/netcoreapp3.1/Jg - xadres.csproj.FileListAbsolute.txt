@@ -1,0 +1,13 @@
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\obj\Debug\netcoreapp3.1\Jg - xadres.csprojAssemblyReference.cache
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\obj\Debug\netcoreapp3.1\Jg - xadres.csproj.CoreCompileInputs.cache
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\obj\Debug\netcoreapp3.1\Jg - xadres.AssemblyInfoInputs.cache
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\obj\Debug\netcoreapp3.1\Jg - xadres.AssemblyInfo.cs
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\bin\Debug\netcoreapp3.1\Jg - xadres.exe
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\bin\Debug\netcoreapp3.1\Jg - xadres.deps.json
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\bin\Debug\netcoreapp3.1\Jg - xadres.runtimeconfig.json
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\bin\Debug\netcoreapp3.1\Jg - xadres.runtimeconfig.dev.json
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\bin\Debug\netcoreapp3.1\Jg - xadres.dll
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\bin\Debug\netcoreapp3.1\Jg - xadres.pdb
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\obj\Debug\netcoreapp3.1\Jg - xadres.dll
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\obj\Debug\netcoreapp3.1\Jg - xadres.pdb
+C:\Users\WALLISON GREGORIO\Desktop\Projet\Proj-01\Jg - xadres\obj\Debug\netcoreapp3.1\Jg - xadres.genruntimeconfig.cache

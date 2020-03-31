@@ -1,4 +1,5 @@
 ﻿using System;
+using Tabuleiro;
 
 namespace Jg___xadres
 {
@@ -6,7 +7,8 @@ namespace Jg___xadres
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Posicao p = new Posicao(3, 4);
+            Console.WriteLine("posição : "+ p);
         }
     }
 }
